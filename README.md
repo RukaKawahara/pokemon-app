@@ -44,4 +44,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-# pokemon-app
+
+## pokemon-app
+udemyの講座を受けて、自分でtypescriptを使い日本語表示になるように書き直しました
+https://nijibox.udemy.com/course/react-3project-app-udemy/learn/lecture/32840416
+
+### 成果物
+https://pokemon-app-6d6e9.web.app/
