@@ -1,0 +1,22 @@
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  margin: 20px 0;
+}
+
+.page-item {
+  list-style: none;
+  min-width: 28px;
+  text-align: center;
+}
+
+.page-item.is-active {
+  background-color: rgba(228, 81, 154);
+  color: white;
+  border-radius: 4px;
+}
+
+.page-item.disabled {
+  display: none;
+}

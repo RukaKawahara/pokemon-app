@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.card-wrapper {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  padding-top: 20px;
+}

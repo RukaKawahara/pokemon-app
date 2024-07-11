@@ -1,0 +1,155 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  line-height: 1.5;
+}
+
+.card {
+  background-color: #fff;
+  box-shadow: 0 0 8px rgba(0, 0, 0, .16);
+  color: #212121;
+  text-decoration: none;
+  width: 320px;
+  border-radius: 24px;
+}
+
+.card-id {
+  font-size: 1rem;
+  padding-top: 1rem;
+}
+
+.card-img{
+  width: 24px;
+  height: auto;
+  align-items: center;
+}
+
+.card-header {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  margin: 0 auto;
+  font-weight: bold;
+}
+
+.card-thumbnail {
+  margin: 0 4rem;
+}
+
+.card-image {
+  margin: 0 auto;
+  max-width: 100px;
+}
+
+.card-image--noData {
+  margin-top: 8px;
+}
+
+.card-body {
+  padding: 0.5rem 1rem 1rem 1rem;
+}
+
+.card-text {
+  font-size: 1rem;
+}
+
+.card-type {
+  background-color: aqua;
+  border-radius: 20px;
+  width: 50%;
+  margin: 0.5rem auto 0;
+}
+
+.card-type--normal {
+  background-color: lightgray;
+}
+
+.card-type--fire {
+  background-color: red;
+  color:white;
+}
+
+.card-type--water {
+  background-color: blue;
+  color: white;
+}
+
+.card-type--grass{
+  background-color: green;
+  color:white;
+}
+
+.card-type--electric {
+  background-color: yellow;
+}
+
+.card-type--fighting {
+  background-color: lightsalmon;
+}
+
+.card-type--poison {
+  background-color: purple;
+  color:white;
+}
+
+.card-type--ground {
+  background-color: brown;
+  color:white;
+}
+
+.card-type--ground {
+  background-color: brown;
+  color:white;
+}
+
+.card-type--psychic {
+  background-color: violet;
+}
+
+.card-type--ghost{
+  background-color: indigo;
+  color: white;
+}
+
+.card-type--bug{
+  background-color: khaki;
+}
+
+.card-type--rock{
+  background-color: goldenrod;
+}
+
+.card-type--dragon {
+  background-color: mediumslateblue;
+  color: white;
+}
+
+.card-type--dark {
+  background-color: midnightblue;
+  color: white;
+}
+
+.card-type--steel {
+  background-color: lightsteelblue;
+}
+
+.card-type--fairy {
+  background-color: lightpink;
+}
+
+.card-text_title_wrapper {
+  display: flex;
+  justify-content: center;
+  gap:4px;
+  margin-top: 0.5rem;
+}
+
+.card-item {
+  list-style: none;
+}
