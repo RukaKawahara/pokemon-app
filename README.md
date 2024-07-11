@@ -47,6 +47,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## pokemon-app
 udemyの講座を受けて、自分でtypescriptを使い日本語表示になるように書き直しました
+
 https://nijibox.udemy.com/course/react-3project-app-udemy/learn/lecture/32840416
 
 ### 成果物
